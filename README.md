@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub profile!
 
-I'm Iván Rivas, a Full-Stack Developer with over 5 years of experience in creating and maintaining software. I'm passionate about solving complex problems and creating new solutions to overcome obstacles.
+I'm Iván Rivas, a Full-Stack Developer since 2016, creating and maintaining software. I'm passionate about solving complex problems and creating new solutions to overcome obstacles.
 
 💻 My skills include:
 
