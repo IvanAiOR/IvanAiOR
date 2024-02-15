@@ -58,6 +58,3 @@ I'm Iván Rivas, a Full-Stack Developer since 2016, creating and maintaining sof
  or on my LinkedIn profile at [linkedin.com/irivascas](https://www.linkedin.com/in/irivascas/?locale=en_US).
 
 Thank you for visiting my profile!
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
