@@ -16,6 +16,6 @@ I'm Iván Rivas, a Full-Stack Developer since 2016, creating and maintaining sof
 
 🌎 I'm fluent in both English and Spanish, and I'm excited to work with recruiters from around the world.
 
-📫 Let's connect! You can reach me by email at <irivascas@gmail.com> or on my LinkedIn profile at <https://www.linkedin.com/in/irivascas/>.
+📫 Let's connect! You can reach me by email at <irivascas@gmail.com> or on my LinkedIn profile at <[linkedin.com/irivascas](https://www.linkedin.com/in/irivascas/?locale=en_US)>.
 
 Thank you for visiting my profile!
