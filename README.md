@@ -51,7 +51,7 @@ I'm Iván Rivas, a Full-Stack Developer since 2016, creating and maintaining sof
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-🌎 I'm fluent in both English and Spanish, and I'm excited to work with recruiters from around the world.
+🌎 I'm fluent in both English and Spanish, and I'm excited to work with collegues from around the world.
 
 📫 Let's connect! You can reach me by email at 
 [irivascas@gmail.com](mailto:irivascas@gmail.com?subject=Vacancy)
